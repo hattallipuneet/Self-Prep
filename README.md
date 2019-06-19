@@ -34,3 +34,7 @@ Synchronized collections vs concurrent collections(how they work/difference/when
 
 <h3>Important Links !!</h3>
 https://softwareengineering.stackexchange.com/questions/168367/multithreading-synchronization-interview-question-find-n-words-given-m-threads
+https://www.dre.vanderbilt.edu/~schmidt/POSA/POSA2/conc-patterns.html
+https://github.com/LeonardoZ/java-concurrency-patterns
+https://www.freecodecamp.org/news/code-review-checklist-java-concurrency-49398c326154/
+https://sudo.ch/unizh/concurrencypatterns/ConcurrencyPatterns.pdf
