@@ -1,0 +1,56 @@
+Interview Prep Plan -
+- Create sprints in YouTrack
+    - Create User Story for each topic
+    - Create tasks under story that target specific topics and only to the point.
+      Note to self: Try to draft the task such that it will not take more than an hour to complete.
+
+- Need to set priority on the tasks.
+- Brek the 
+- Weekdays plans 
+  - An hour in the evening for the prep.
+  - An hour in the morning for the prep.
+  - Half an hour in the morning to do revision.
+  
+- Weekend plans 
+  - Saturday
+      - 2 Hours in the morning.
+      - 2 Hours in the evening. 
+      - 1 Hour in the evening to plan the weekdays tasks
+  - Sunday 
+      - 2 Hours in the morning.
+      - 2 Hours in the evening. 
+      - 1 Hour in the evening to plan the weekdays tasks      
+Java Prep
+- List down all the new features introduced in Java 8 version.
+- Find out what is the latest Java version.
+- Need special focus on below :
+  - Multithreading concepts
+    - Synchronization
+    - DeadLock Issue
+    - Resource Sharing
+  - Collections
+    - Map 
+
+Framework Prep:
+  - Spring 5
+  - Spring REST
+  - Spring Boot
+  - Spring Security
+  - JUnit/TestNG
+
+Container Tools :
+  - Docker
+
+Architecture :
+  - Micoservices
+  
+Coding questions :
+  - Linked List problems.
+  - String search/pattern problems.
+  - System Design Questions
+ 
+ 
+Database 
+  - Joins
+  - Indexing Types and constraints
+  - 
