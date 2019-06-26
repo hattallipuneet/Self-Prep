@@ -52,3 +52,5 @@ Synchronized collections vs concurrent collections(how they work/difference/when
 9. https://github.com/iluwatar/java-design-patterns
 
 10. https://github.com/j-easy/easy-batch
+
+11. https://github.com/j-easy
