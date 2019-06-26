@@ -42,3 +42,5 @@ Synchronized collections vs concurrent collections(how they work/difference/when
 4. https://www.freecodecamp.org/news/code-review-checklist-java-concurrency-49398c326154/
 
 5. https://sudo.ch/unizh/concurrencypatterns/ConcurrencyPatterns.pdf
+
+6. http://dancres.github.io/Pages/
