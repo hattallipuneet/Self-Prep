@@ -44,3 +44,5 @@ Synchronized collections vs concurrent collections(how they work/difference/when
 5. https://sudo.ch/unizh/concurrencypatterns/ConcurrencyPatterns.pdf
 
 6. http://dancres.github.io/Pages/
+
+7. https://martinfowler.com/microservices/
