@@ -50,3 +50,5 @@ Synchronized collections vs concurrent collections(how they work/difference/when
 8. https://github.com/MrR0807/SpringCertification5.0
 
 9. https://github.com/iluwatar/java-design-patterns
+
+10. https://github.com/j-easy/easy-batch
