@@ -1,0 +1,3 @@
+https://github.com/datawire/todo : Example of a Todo application implemented using microservices on top of kubernetes and envoy.
+https://github.com/elgris/microservice-app-example
+https://blog.scottlogic.com/2017/07/17/successful-microservices-with-12factor-app.html
